@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gapurakutarahayu-karawang/static/css/main.e6c13ad2.css",
-    "main.js": "/gapurakutarahayu-karawang/static/js/main.9cf603ec.js",
+    "main.js": "/gapurakutarahayu-karawang/static/js/main.977c362c.js",
     "static/js/453.8f63a20f.chunk.js": "/gapurakutarahayu-karawang/static/js/453.8f63a20f.chunk.js",
     "index.html": "/gapurakutarahayu-karawang/index.html",
     "main.e6c13ad2.css.map": "/gapurakutarahayu-karawang/static/css/main.e6c13ad2.css.map",
-    "main.9cf603ec.js.map": "/gapurakutarahayu-karawang/static/js/main.9cf603ec.js.map",
+    "main.977c362c.js.map": "/gapurakutarahayu-karawang/static/js/main.977c362c.js.map",
     "453.8f63a20f.chunk.js.map": "/gapurakutarahayu-karawang/static/js/453.8f63a20f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.9cf603ec.js"
+    "static/js/main.977c362c.js"
   ]
 }
